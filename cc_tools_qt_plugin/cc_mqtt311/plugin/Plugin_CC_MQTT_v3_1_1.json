@@ -1,0 +1,7 @@
+{
+    "name" : "CC MQTT v3.1.1 Protocol",
+    "desc" : [
+        "MQTT v3.1.1 protocol."
+    ],
+    "type" : "protocol"
+}
