@@ -3,5 +3,6 @@
     "desc" : [
         "MQTT v3.1.1 protocol."
     ],
+    "version": "v3.0.4",
     "type" : "protocol"
 }
